@@ -40,13 +40,13 @@ The project was designed and tested using Tinkercad Circuits.
 
 ### Bright Condition
 
-![Bright Condition](bright_condition.png)
+![Bright Condition](Bright_condition.png)
 
 When sufficient light is detected, the LED remains OFF.
 
 ### Dark Condition
 
-![Dark Condition](dark_condition.png)
+![Dark Condition](Dark_condition.png)
 
 When the light level decreases below the threshold, the LED turns ON.
 
